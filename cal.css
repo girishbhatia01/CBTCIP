@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    margin: 20px 15px;
+    padding: 10px 15px;
+    border: 2px solid rgb(30, 37, 114);
+    border-radius: 2px;
+    background-color: aqua;
+}
+.input{
+    padding: 7px 55px;
+    border-radius: 15px;
+}
+.box{
+    border: 3px solid black;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(13, 13, 20);
+}
+.input input{
+    padding: 10px 50px;
+    margin-top: 10px;
+}
+body{
+    background: linear-gradient(180deg, #5a2929 0%, #9c89e9 100%);
+}
